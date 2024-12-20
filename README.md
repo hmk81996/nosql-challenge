@@ -5,7 +5,7 @@ Data Analytics Course Module 12
 Using datasets from the UK Food Standards Agency, I will evaluate some of the ratings. I will work from the hypothetical scenario that journalists and food critics would be able to use these evaluations to make decisions about which establishments to write about.
 
 # Methodology
-I will work in Jupyter Notebook and use MongoDB to import create the database, load data and create a collection. Using Mongo functions, I'll perform CRUD operations on the collection. Finally, to answer a series of key questions about establishments, I'll use Pandas to create DataFrames.
+I will work in Jupyter Notebook and use MongoDB to import create the database, load data and create a collection. Using MongoDB functions, I'll perform CRUD operations on the collection. Finally, to answer a series of key questions about establishments, I'll use Pandas to create DataFrames.
 
 ## Part 1: Database and Jupyter Notebook Set Up
 I imported all the data from the establishments.json file and created a **uk_food database** and a collection called **establishments** which I saved as a variable to use in future CRUD operations.
