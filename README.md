@@ -1,5 +1,5 @@
-# nosql-challenge
-Data Analytics Course Module 12
+# restaurant-database
+NoSQL Database Exploration - Data Analytics Course Module 12
 
 # Task
 Using datasets from the UK Food Standards Agency, I will evaluate some of the ratings. I will work from the hypothetical scenario that journalists and food critics would be able to use these evaluations to make decisions about which establishments to write about.
